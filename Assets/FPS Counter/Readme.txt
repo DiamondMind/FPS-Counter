@@ -1,0 +1,1 @@
+Just drag and drop the FPS Canvas prefab into your scene :)
